@@ -1,0 +1,106 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-image: url("oregon-ghost-town-black-and-white-adam-jewell.jpg");
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+	color: white;
+	height: 100vh;
+	width: 100%;
+	line-height: 1.1em;
+	font-size: 1.2em;
+	font-weight: normal;
+	font-family: arial,sans-serif;
+}
+.nav_bar{
+	display: flex;
+	padding: 19px;
+	background-color: #030000;
+	color: white;
+}
+.nav_bar_img{
+	width: 26px;height: 26px;
+}
+.logo{
+	font-weight: bold;
+	letter-spacing: 1px;
+	margin-right: auto;
+}
+.logo_color{
+	color: rgb(243, 189,0);
+}
+
+/*////////PAGE 1////////////////////////////////////
+/////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////*/
+
+
+.background_color{
+	width: 100%;
+	height: 100vh;
+	background-color: rgba(0,0,0,0.4);
+}
+.body{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	height: 90vh;
+	padding: 4%;
+	line-height: 1.4;
+}
+.text_part1{
+	margin:auto;
+}
+.text_part2{
+	margin:  auto ;
+}
+.main_button{
+	width: 140px;
+	padding: 5%;
+	font-size: 25px;
+	border: none;
+	background-color: rgba(243, 189,0,1);
+	color: black;
+	border-radius: 9px;
+	outline: none;
+	cursor: pointer;
+}
+.main_button:hover{
+	background-color: #e6e600;
+}
+
+
+/*////////PAGE 2//////////////////////////////
+/////////////////////////////////////////////
+//////////////////////////////////////////*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
